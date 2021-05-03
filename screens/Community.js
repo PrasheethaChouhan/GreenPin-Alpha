@@ -23,7 +23,6 @@ import {
 //import { Icon, Product } from '../components/';
 
 const { width } = Dimensions.get('screen');
-import products from '../constants/products.js';
 import * as SMS from 'expo-sms';
 //import MyHeader from '../components/MyHeader';
 
